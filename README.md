@@ -29,7 +29,7 @@ so if i use frappe note so i can access notes anytime ,anywhere on any device.
 
 - Paperless
 - Reminder
-- Ouick search
+- Quick search
 - Security
 - Anytime read anywhere
 - Multi-device
